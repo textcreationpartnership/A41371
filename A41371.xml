@@ -1,0 +1,745 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox solis: or, an astrological discourse of the great eclipse of the sun, which happened on June 22. 1666 in 10 deg. of the watry signe Cancer. Shewing what effects may most probably attend it, and unto what persons, kingdoms and countries, they are chiefly directed. By John Gadbury, Philomathēmapkoz. With allowance. Intended to have been publisht in his Ephemeris for this present year 1667. but prevented by reason of the late terrible conflagration of London.</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41371</idno>
+            <idno type="STC">Wing G100A</idno>
+            <idno type="STC">ESTC R223618</idno>
+            <idno type="EEBO-CITATION">99833908</idno>
+            <idno type="PROQUEST">99833908</idno>
+            <idno type="VID">38386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1830:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox solis: or, an astrological discourse of the great eclipse of the sun, which happened on June 22. 1666 in 10 deg. of the watry signe Cancer. Shewing what effects may most probably attend it, and unto what persons, kingdoms and countries, they are chiefly directed. By John Gadbury, Philomathēmapkoz. With allowance. Intended to have been publisht in his Ephemeris for this present year 1667. but prevented by reason of the late terrible conflagration of London.</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>[8], 28 p. : tables, ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by James Cotterel, for Eliz. Calvert, at the signe of the Black Spread-Eagle in Duck-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXVII. [1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solar eclipses --  1666 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38386:1" rendition="simple:additions"/>
+            <p>
+               <hi>VOX SOLIS:</hi> OR, An ASTROLOGICAL DISCOURSE OF The great ECLIPSE of the SUN, which happened on <hi>June</hi> 22. 1666. in 10 deg. of the <hi>Watry</hi> ſigne <hi>Cancer.</hi>
+            </p>
+            <p>SHEWING What EFFECTS may moſt probably attend it, AND Unto what <hi>Perſons, Kingdoms</hi> and <hi>Countries,</hi> they are chiefly Directed.</p>
+            <p>By <hi>JOHN GADBURY,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>With Allowance.</p>
+            <p>Intended to have been publiſht in his <hi>Ephemeris</hi> for this preſent year 1667. but prevented by reaſon of the late terrible Conflagration of <hi>London.</hi>
+            </p>
+            <q>
+               <p>Sol <hi>&amp;</hi> Luna, <hi>post Deum, omnium viventium vita ſunt.</hi>
+               </p> 
+               <bibl>Hermes.</bibl>
+            </q>
+            <figure>
+               <figDesc>digram of a solar ecclipse</figDesc>
+               <p>North East West South</p>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>James Cotterel,</hi> for <hi>Eliz. Calvert,</hi> at the ſigne of the Black Spread-Eagle in Duck-lane. MDCLXVII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38386:2"/>
+            <pb facs="tcp:38386:2"/>
+            <head>To the TRUELY LEARNED, And moſt WORTHILY ACCOMPLISHED, Elias Aſhmole, Of the Middle-Temple, Eſq;</head>
+            <head type="sub">
+               <hi>Windſor</hi>-Herald, Comptroller of the <hi>Exciſe,</hi> and Keeper of the <hi>Medals</hi> and <hi>Antiqui<g ref="char:EOLhyphen"/>ties</hi> belonging to his <hi>ſacred Majeſtie</hi> King <hi>CHARLES</hi> the Second, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Moſt honour'd Sir!</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Aſtrologers</hi> of this <hi>Age</hi> and <hi>I<g ref="char:EOLhyphen"/>ſland,</hi> ſwarm to <hi>You,</hi> as their <hi>Pa<g ref="char:EOLhyphen"/>tron,</hi> (for ſhelter and protection of <hi>Themſelves</hi> and <hi>Books</hi>) as <hi>Bees to their Hive.</hi> It is an Argument of
+<pb facs="tcp:38386:3"/>
+               <hi>true Sapience</hi> (I confeſs) to lodge the <hi>choiceſt Jewels,</hi> in the <hi>Noblest Cabinets:</hi> And the <hi>Worthiest Sciences,</hi> fare always beſt, with the moſt Honourable <hi>Mecoenas.</hi> Such <hi>Policie</hi> I approve of, and (although, at ſome times, (by reaſon of <hi>Tortuous interpoſures</hi>) I could not, yet) ſhall <hi>now, follow.</hi> For, when <hi>after-Ages</hi> ſhall underſtand, that I have made, not the <hi>meanest Additions</hi> to this <hi>Celestial Study;</hi> It may reaſonably put <hi>them</hi> into <hi>Admiration,</hi> if not <hi>Aſtoniſhment,</hi> not to finde <hi>me,</hi> ſet with<g ref="char:EOLhyphen"/>in ſome <hi>convenient diſtance</hi> of your <hi>honoura<g ref="char:EOLhyphen"/>ble Acquaintance</hi> and <hi>Favour.</hi>
+            </p>
+            <p>'Tis true, in the <hi>twilight</hi> of <hi>Great Britains hope,</hi> and <hi>Reſtauration</hi> by his <hi>Sacred Majesty,</hi> [when it was a <hi>Crime,</hi> either to be known <hi>Loyal,</hi> or to <hi>own</hi> any <hi>one</hi> of that (then-deſpi<g ref="char:EOLhyphen"/>ſed) <hi>inclination</hi> and <hi>Judgement</hi>] <hi>I,</hi> with <hi>ano<g ref="char:EOLhyphen"/>ther,</hi> did preſent unto <hi>You, An Emendation of the Learned</hi> Hartgil<hi>'s Aſtronomical Tables;</hi> which Book, <hi>You</hi> were pleaſed <hi>generouſly,</hi> not onely to <hi>accept,</hi> and <hi>approve of,</hi> but <hi>nobly</hi> to <hi>encourage us,</hi> to a farther Enquiry into the <hi>Mysteries</hi> of that <hi>Science</hi> we had <hi>then eſpou<g ref="char:EOLhyphen"/>ſed.</hi>
+            </p>
+            <pb facs="tcp:38386:3"/>
+            <p>But <hi>ſingly,</hi> have I <hi>never yet</hi> payd my <hi>Ac<g ref="char:EOLhyphen"/>knowledgements,</hi> or the <hi>honour</hi> I owe, unto your <hi>exquiſite Skill</hi> in all <hi>Mathematical, Her<g ref="char:EOLhyphen"/>metical,</hi> and <hi>Phyſical Learning;</hi> your <hi>emi<g ref="char:EOLhyphen"/>nent acquaintance</hi> with the <hi>Conſtitutions, Cu<g ref="char:EOLhyphen"/>ſtoms,</hi> and <hi>Manners</hi> of our <hi>own,</hi> and <hi>forraign Nations;</hi> your <hi>Admirable Knowledge</hi> in the <hi>Law, Heraldry,</hi> &amp;c. as alſo, in all <hi>Politiques</hi> and <hi>Ethicks:</hi> Be pleaſed <hi>(learned Sir)</hi> to <hi>accept it</hi> here.</p>
+            <p>I <hi>diſdain</hi> to make you <hi>Patron</hi> of my <hi>Gall</hi> and <hi>Rudeneſs,</hi> as <hi>ſome</hi> (without a <hi>Bluſh</hi>) have <hi>lately done:</hi> or yet, to play the <hi>Paraſite</hi> with <hi>You,</hi> and propound a <hi>Gain</hi> to my ſelf, by this Undertaking. No: my <hi>Dedication</hi> of theſe <hi>few Sheets</hi> of Paper, proceeds <hi>(ex intimis Medullis)</hi> not from a <hi>Spurious,</hi> but <hi>Legiti<g ref="char:EOLhyphen"/>mate honour</hi> and <hi>affection,</hi> and a <hi>deſire</hi> to let the Learned, <hi>in times to come,</hi> know, <hi>That no Artist in this Age, had a more Cordial eſteem for You, and your incomparable Vertues;</hi> or, <hi>could more readily acknowledge, your continu<g ref="char:EOLhyphen"/>ed, and often-reiterated Favours, to the inge<g ref="char:EOLhyphen"/>nious Students in all Learning,</hi> then <hi>He,</hi> who
+<pb facs="tcp:38386:4"/>aſſumes the <hi>boldneſs,</hi> (and accounts it his greateſt <hi>Glory</hi>) to <hi>entitle himſelf</hi>
+            </p>
+            <closer>
+               <salute>(Honoured Sir)</salute>
+               <signed>Your moſt <hi>humble,</hi> and moſt <hi>obliged</hi> Servant, JOHN GADBURY.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38386:4"/>
+            <head>To the READER.</head>
+            <p>
+               <hi>THe</hi> Heavens <hi>of late years, have not been</hi> la<g ref="char:EOLhyphen"/>den <hi>with more</hi> various Cauſes, <hi>and Monitors of enſuing Miſchiefs, then the</hi> Earth <hi>hath been</hi> burdened <hi>with</hi> ſutable Effects. <hi>No ſooner have we been</hi> quit <hi>of</hi> one Evil, <hi>but our Ears have been terrified with the noiſe of</hi> another's approach; <hi>like that of</hi> Job's meſſengers. <hi>Poor</hi> Europe <hi>hath laboured under many of</hi> Iſraels <hi>heavie Judgements; perhaps, deſerved them as much as</hi> ſhe; <hi>for her</hi> Hy<g ref="char:EOLhyphen"/>pocriſie, Pride, Rebellion, <hi>&amp;c. And the two thun<g ref="char:EOLhyphen"/>dering Verſes in</hi> Deuteronomie, <hi>Chap.</hi> 28. <hi>v.</hi> 21, 22. <hi>have been</hi> notably fulfilled <hi>unto (almost) all the</hi> ſeveral Kingdoms <hi>and</hi> Countries <hi>therein:</hi> Faciet Jehova ut adhaereſcat tibi Peſtis, donec conſum<g ref="char:EOLhyphen"/>pſerit te ex ea terra quo tu venturus es ad poſſi<g ref="char:EOLhyphen"/>dendam eam jure haereditario. Percutiet te Jeho<g ref="char:EOLhyphen"/>va tabe, calidaque, &amp; aeſtuante ac adurente Febre, &amp; ſiccitate &amp; uridine, &amp; morbo regio; quae per<g ref="char:EOLhyphen"/>ſequuntur te donec pereas.</p>
+            <p>
+               <hi>The</hi> late Sufferings <hi>of this Weſtern part of the world, do eminently</hi> Engliſh <hi>the most of the</hi> Latine: <hi>We have been</hi> ſmitten <hi>with the</hi> Peſtilence <hi>to pur<g ref="char:EOLhyphen"/>poſe; as alſo, with the</hi> Conſumption, <hi>and</hi> Fever; <hi>with the</hi> Sword, <hi>and</hi> extreme Burning: <hi>yea, a dif<g ref="char:EOLhyphen"/>ferent, and (perhaps) more</hi> dreadful Burning, <hi>then that mentioned in the</hi> Text. <hi>God of his mercy grant, we be not</hi> purſued <hi>with</hi> Blaſting <hi>and</hi> Mildew
+<pb facs="tcp:38386:5"/>
+               <hi>too, to make up the complement of our</hi> puniſhments, <hi>which doubtleſs are the</hi> juſt rewards <hi>of our</hi> Sins. <hi>A</hi> Learned <note n="*" place="margin">Dr. <hi>Gell,</hi> in a Sermon in<g ref="char:EOLhyphen"/>tituled, <hi>No<g ref="char:EOLhyphen"/>ahs floud re<g ref="char:EOLhyphen"/>turning,</hi> p. 15.</note> Preacher <hi>obſerving the</hi> vitious incli<g ref="char:EOLhyphen"/>nations <hi>of the men of</hi> this Age <hi>(ſome years ſince) parallels</hi> us <hi>with</hi> Sodom, <hi>thus:</hi> They of Sodom prefigured the men of this unclean generation; and muſt not we expect a like Judgement unto that of Sodom? <hi>And (when we call to minde the late</hi> ſtrange providences) <hi>we may</hi> for ever <hi>hereafter</hi> believe <hi>it, for a</hi> divine <hi>and</hi> infallible Truth, <hi>That</hi> like Sins, <hi>have</hi> like Puniſhments.</p>
+            <p>
+               <hi>But</hi> there is hopes of a tree, (<hi>though</hi> cut down) that it may ſprout again! <hi>and I have a</hi> more-then-ordinary <hi>reaſon to believe,</hi> (<hi>and I hope I do not</hi> deceive <hi>my ſelf therein</hi>) that Englands afflictions are neer their period: <hi>and can</hi> therefore <hi>with the</hi> more confidence, <hi>adde this</hi> word of Comfort <hi>unto it,</hi> That the Famine, threatned by the late So<g ref="char:EOLhyphen"/>lar <hi>Delinquium,</hi> is not likely to prove the tythe ſo ſharp and cruel unto this Kingdom, as unto many other Kingdoms and Countries in this part of the world. [<hi>Jupiter</hi> is in <hi>Aries.</hi>] <hi>Yet I cannot ſay, that</hi> we <hi>ſhall be</hi> totally free, <hi>from the</hi> talons <hi>of that</hi> black <hi>and</hi> dreadful enemy. Deus avertat. <hi>So prayeth, the</hi> earneſt Implorer <hi>of</hi> Englands peace <hi>and</hi> proſperity,</p>
+            <closer>
+               <signed>Jo. Gadbury.</signed>
+               <dateline>Brick-Court, neer Deans yard <hi>Weſtminſter,</hi> 
+                  <date>
+                     <hi>March</hi> 14. 1666/7.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:38386:5"/>
+            <head>A DISCOURSE Of the SUNS ECLIPSE Which happened on <hi>June</hi> 22. laſt paſt, in the morning.</head>
+            <p>IN my Ephemeris for. this preſent year 1666, I de<g ref="char:EOLhyphen"/>clared to the World my reſolution to publiſh a Treatiſe of this great Solar Eclipſe: which pro<g ref="char:EOLhyphen"/>miſe I had (according to engagement) diſcharged in my DIARY for the enſuing year 1667. ha<g ref="char:EOLhyphen"/>ving much enlarged the ſame, and obtained Licenſe, thereof, for that very end and purpoſe.</p>
+            <p>But the late dreadful Conflagration happening to <hi>London,</hi> wrought ſo great a deſtruction among the Statio<g ref="char:EOLhyphen"/>ners and Printers in that Citie, (they ſuffering the moſt by the Tyrannical Flames, of any one Society whatſo<g ref="char:EOLhyphen"/>ever) that I was conſtrained to reduce my Annual Book to its old number of Sheets, and reſerve my Diſcourſe of the Eclipſe to be printed apart by ſelf. And conceiving it to be of convenient Caution and Conſequence, not one<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:38386:6"/>to <hi>England,</hi> but other parts of <hi>Europe,</hi> &amp;c. I thought it proper, rather then ſtifle it, (after ſo much pains) to print it. For although the Eclipſe it ſelf be over, its ef<g ref="char:EOLhyphen"/>fects are to come; and may <hi>continue</hi> among us (if Aſtrolo<g ref="char:EOLhyphen"/>gie fail me not, as ſeldome it doth) theſe <hi>two years</hi> yet: (of which more anon.) I therefore preſume this ſhort Tractate will not appear like an unfortunate Gueſt, <hi>(post Festum)</hi> after the Table is clear'd; but very opportunely, for the Information and Advantage of ſuch as are there<g ref="char:EOLhyphen"/>by concerned.</p>
+            <p>I need not (for an <hi>Exordium</hi>) acquaint you, that <hi>Ecli<g ref="char:EOLhyphen"/>pſes</hi> have been always attended with <hi>Aſtoniſhing Effects;</hi> or that at the ſight of them, <hi>whole Armies</hi> have been ſmitten with <hi>amazement, fear,</hi> and <hi>horrour:</hi> or of the <hi>ſcorching Sum<g ref="char:EOLhyphen"/>mers, unkinde Winters,</hi> deſtructions of Countries, ruines of Cities and Towns, the death of Kings and Great per<g ref="char:EOLhyphen"/>ſons, alterations of Governments, change of Laws, <hi>&amp;c.</hi> that commonly accompany them. All theſe things I ſhall (at preſent) pretermit, and come to the Diſcourſe intend<g ref="char:EOLhyphen"/>ed; which I will conſider,</p>
+            <list>
+               <item>Firſt, <hi>Aſtronomically.</hi>
+               </item>
+               <item>Secondly, <hi>Aſtrologically.</hi>
+               </item>
+            </list>
+            <p>In the Aſtronomical part, I ſhall firſt take notice of ſome Notable Obſervations that have been made of this Eclipſe, by ſeveral eminent perſons in different places; which I ſhall exhibit in the following Tabular form.</p>
+            <pb n="3" facs="tcp:38386:6"/>
+            <p>
+               <table>
+                  <head>This Eclipſe was obſerved in the following places.</head>
+                  <row>
+                     <cell>
+                        <hi>June</hi> 22. in the morning, 1666.</cell>
+                     <cell>
+                        <hi>At London.</hi>
+                     </cell>
+                     <cell>
+                        <hi>In Paris.</hi>
+                     </cell>
+                     <cell>
+                        <hi>At Madrid.</hi>
+                     </cell>
+                     <cell>
+                        <hi>In Southam<g ref="char:EOLhyphen"/>pton</hi>
+                     </cell>
+                     <cell>
+                        <hi>Neer York.</hi>
+                     </cell>
+                     <cell>
+                        <hi>At Oxford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>H.M.</cell>
+                     <cell>H.M.</cell>
+                     <cell>H.M.</cell>
+                     <cell>H.M.</cell>
+                     <cell>H.M.</cell>
+                     <cell>H.M.</cell>
+                  </row>
+                  <row>
+                     <cell>Beginning at</cell>
+                     <cell>5 43</cell>
+                     <cell>5 45</cell>
+                     <cell>5 0</cell>
+                     <cell>5 25</cell>
+                     <cell>5 34</cell>
+                     <cell>5 27</cell>
+                  </row>
+                  <row>
+                     <cell>The Middle of it</cell>
+                     <cell>6 15</cell>
+                     <cell>6 42</cell>
+                     <cell>6 2</cell>
+                     <cell>6 22</cell>
+                     <cell>6 32</cell>
+                     <cell>6 23</cell>
+                  </row>
+                  <row>
+                     <cell>End thereof</cell>
+                     <cell>7 37</cell>
+                     <cell>7 43</cell>
+                     <cell>7 5</cell>
+                     <cell>7 23</cell>
+                     <cell>7 30</cell>
+                     <cell>7 24</cell>
+                  </row>
+                  <row>
+                     <cell>Total Duration</cell>
+                     <cell>1 54</cell>
+                     <cell>1 58</cell>
+                     <cell>2 5</cell>
+                     <cell>1 58</cell>
+                     <cell>1 56</cell>
+                     <cell>1 57</cell>
+                  </row>
+                  <row>
+                     <cell>Digits Eclipſed</cell>
+                     <cell>7 4</cell>
+                     <cell>7 50</cell>
+                     <cell>7 46</cell>
+                     <cell>7 22</cell>
+                     <cell>7 18</cell>
+                     <cell>7 15</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Reader need not much to wonder at the Differen<g ref="char:EOLhyphen"/>ces of theſe Obſervations, if he do but conſider they were taken in ſeveral places, where the <hi>Pole</hi> hath a different E<g ref="char:EOLhyphen"/>levation; and that the <hi>Parallax</hi> might materially differ. Yet it ſeems a little ſtrange, that there ſhould be leſs diffe<g ref="char:EOLhyphen"/>rence between thoſe Obſervations made at <hi>London</hi> and <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> then betwixt them made at <hi>London,</hi> and thoſe at <hi>Sou<g ref="char:EOLhyphen"/>thampton</hi> and <hi>Oxford.</hi> But the Errour thereof may be oc<g ref="char:EOLhyphen"/>caſion'd from the imperfection of the Inſtruments the Ar<g ref="char:EOLhyphen"/>tiſts made uſe of; or elſe, for want of Exactneſs in the ob<g ref="char:EOLhyphen"/>ſervers themſelves: it being eaſier (in any thing) to be o<g ref="char:EOLhyphen"/>vertaken by Errours and Miſtakes, then to keep pace with Truth and Certainty; chiefly, in Aſtronomical Obſerva<g ref="char:EOLhyphen"/>tions.</p>
+            <p>With the moſt concurrent of theſe Obſervations, do the <hi>Rudolphine</hi> and <hi>Philolaick</hi> Tables agree; ſo alſo do thoſe of my loving friend Mr. <hi>V. Wing,</hi> and our Country-man Mr. <hi>Jeremy Shackerly.</hi> The <hi>Ricciolan</hi> and <hi>Lansbergian,</hi> &amp;c. are found to differ much, both in the beginning, continuation,
+<pb n="4" facs="tcp:38386:7"/>termination, and obſcuration of this eminent and famous Eclipſe.</p>
+            <p>But next unto the ſafeſt Obſervations, do I prefer Mr. <hi>Wing</hi>'s Tables, where you will finde this Solar <hi>deliquium</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ho. min. ſec.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>To begin at</cell>
+                     <cell>17.28.0.</cell>
+                     <cell rows="6">
+                        <hi>June</hi> 21. P.M.</cell>
+                  </row>
+                  <row>
+                     <cell>The viſible Conjunction at</cell>
+                     <cell>18.22.38.</cell>
+                  </row>
+                  <row>
+                     <cell>Middle of the Eclipſe at</cell>
+                     <cell>18.24.48.</cell>
+                  </row>
+                  <row>
+                     <cell>The End of it at</cell>
+                     <cell>19.26.4.</cell>
+                  </row>
+                  <row>
+                     <cell>Total Duration</cell>
+                     <cell>1.58.4.</cell>
+                  </row>
+                  <row>
+                     <cell>Digits Eclipſed</cell>
+                     <cell>7.25.14.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This premiſed, I ſhall in the next place conſider (with <hi>Ptolomy</hi>) how many hours there are (on the day of the Defect) between Sun-riſing and the middle-time of the Eclipſe; unto which Aſtrologers always erect their Figure of heaven. For <hi>take notice</hi> (ſaith the ſame Author) <hi>how many hours the Sun is Eclipſed, for ſo many years ſhall be the duration of his Effect.</hi>
+            </p>
+            <list>
+               <item>Sun riſes at 4 a clock in the morning.</item>
+               <item>Interval between Sun-riſing and the Middle of the E<g ref="char:EOLhyphen"/>clipſe is 2 <hi>ho.</hi> 25 <hi>min.</hi> o <hi>ſec.</hi>
+               </item>
+               <item>The Duration, according to the beſt Obſervations, and Mr. <hi>Wing</hi>'s Tables, is 1 <hi>ho.</hi> 58 <hi>min.</hi> o <hi>ſec.</hi> This obtained, I work by this Analogie:</item>
+            </list>
+            <p>As the length of the day on which the Eclipſe happens, is to 365 days: ſo the interval between Sun-riſing and the Middle of the Eclipſe, is to the time ere its Effects begin to ſhew themſelves.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Demonſtration.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Length of the day 16 <hi>ho.</hi> 20 <hi>min.</hi> or 1080 <hi>m.</hi>
+                     </cell>
+                     <cell>30334237</cell>
+                  </row>
+                  <row>
+                     <cell>365 days, or one year,</cell>
+                     <cell>25622929</cell>
+                  </row>
+                  <row>
+                     <cell>Interval between Sun-riſing and the Middle of the Eclipſe is 2 <hi>ho.</hi> 25 <hi>min.</hi> or 145 <hi>min.</hi>
+                     </cell>
+                     <cell>21613680</cell>
+                  </row>
+                  <row>
+                     <cell>The ſum is</cell>
+                     <cell>47236609</cell>
+                  </row>
+                  <row>
+                     <cell>Time ere the Effects begin, 49 days.</cell>
+                     <cell>16902372</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="5" facs="tcp:38386:7"/>
+            <p>Which 49 days numbred from the day of the Eclipſe, <hi>viz. June</hi> 22. the Effects thereof initiate, or firſt begin to ſhew themſelves, on the tenth day of <hi>August</hi> following.</p>
+            <p>Now for the Continuation of the Effects, that is known from the Duration, which is two hours <hi>ferè; Ergo,</hi> they will continue in force neer two years from the time they firſt commence, <hi>viz.</hi> from <hi>August, anno</hi> 1666. until <hi>July, anno</hi> 1668.</p>
+            <p>Thus much may ſerve for the Mathematical part: now I come to the Aſtrological. And therein I ſhal firſt pre<g ref="char:EOLhyphen"/>ſent you with the Figure of heaven erected to the Middle-time of this famous Eclipſe, in the following form and ſhape; and afterward with the genuine ſignification there<g ref="char:EOLhyphen"/>of.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Longit. Solis</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>♋ 10 <hi>d.</hi>
+                     </cell>
+                     <cell>23 <hi>m.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>Aſoentio<g ref="char:cmbAbbrStroke">̄</g> Recta</hi>
+                     </cell>
+                     <cell>
+                        <hi>Solis</hi>
+                     </cell>
+                     <cell>101.</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Temporis</hi>
+                     </cell>
+                     <cell>276.</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Med. Coeli ſine Cir.</hi>
+                     </cell>
+                     <cell>17.</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Huc adde pro primo domo</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>90.</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Summa totius addenda</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell rows="2">107.</cell>
+                     <cell rows="2">33</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſcentio Obliqua primae domus</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="6" facs="tcp:38386:8"/>
+            <figure>
+               <head type="sub">
+                  <hi>Thema Coelicum</hi> Eclipſis Solaris, 1666 D.H.M. <hi>Menſ. Junii,</hi> 21.18.25. P.M. <hi>Sub Lat.</hi> 51 <hi>deg.</hi> 32 <hi>mi.</hi> 
+                  <g ref="char:Moon">☽</g> à [] ♂ ad ☍ ♄.</head>
+               <p>17 <hi>deg.</hi> 33 <hi>min.</hi> 107 <hi>deg.</hi> 33 <hi>min.</hi>
+               </p>
+               <p>107 <hi>deg.</hi> 33 <hi>min.</hi>
+               </p>
+               <p>🜃 5.10. ☉ <g ref="char:Moon">☽</g> 10.23. ☿ 19.23 Aldebaran. ♊. 31.</p>
+               <p>♈ 19.2. Eridanus.</p>
+               <p>♃ 28.8. ♓ 20.</p>
+               <p>♋ 14. ♀ 28.41.</p>
+               <p>♌ 9.16. ☋ 9.16. Cor Leonis.</p>
+               <p>♍ 0.</p>
+               <p>♍ 20. ♂ 7.25.</p>
+               <p>Spica Virg. ♎ 19.2.</p>
+               <p>♐ 3. ☋ 5.10.</p>
+               <p>♄ 17.54. <choice>
+                     <abbr>℞</abbr>
+                     <expan>retrograde</expan>
+                  </choice> ♑ 14.</p>
+               <p>♒ 9.16.</p>
+               <p>♓ 0.</p>
+               <p>♃ 28.8. ♓ 20.</p>
+               <figDesc>chart showing solar ecclipse</figDesc>
+            </figure>
+            <list>
+               <head>The Fortitudes and Debilities of the Planets in this Eclipſe.</head>
+               <item>☉ is weak by 6 Teſtimonies.</item>
+               <item>♄ is ſtrong by 3 Teſtimonies.</item>
+               <item>♃ is ſtrong by 19 Teſtimonies.</item>
+               <item>♂ is ſtrong by 6 Teſtimonies.</item>
+               <item>♀ is ſtrong by 16 Teſtimonies.</item>
+               <item>☿ is ſtrong by 21 Teſtimonies.</item>
+               <item>
+                  <g ref="char:Moon">☽</g> is ſtrong by 13 Teſtimonies.</item>
+            </list>
+            <p>Hence it appears, that <hi>Mercury</hi> and <hi>Jupiter</hi> are Lords of this Eclipſe, as having the greateſt number of Teſtimonies in ſtrength: the Sun (the Luminary eclipſed) is weak by 6 Arguments, and hath not one Fortitude either Eſſential or Accidental to aſſiſt him.</p>
+         </div>
+         <div type="interpretation">
+            <pb n="7" facs="tcp:38386:8"/>
+            <head>Judicium Aſtrologicum.</head>
+            <p>IN this <hi>Ecliptical Figure,</hi> the Regal and fiery ſigne <hi>Leo</hi> a<g ref="char:EOLhyphen"/>ſcends the Horoſcope, and the <hi>Sun</hi> (the Dominator of that ſigne, and Luminary eclipſed) is poſited in <hi>Cancer,</hi> a Cardinal-Tropical-Feminine ſigne, moveable and watry. As if many matters or things of moſt eminent note, that for divers ages paſt have been flouriſhing, fixed, or ſtative, are by this Solar <hi>Deliquium,</hi> portended ſubject to a ſtrange kinde of inſtability, inconſtancie, and fluctuation: and this moſt apparent in Iſlands, and among ſuch Nations or People as are ſurrounded with, or chiefly live and inhabit by, and upon the Sea. The ſigne wherein the Defect hap<g ref="char:EOLhyphen"/>pens, is the Horoſcope of <hi>Holland,</hi> and the neſt of the <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ted Provinces,</hi> the Seigniory of <hi>Venice, Scotland,</hi> &amp;c. and they may aſſure themſelves they are concerned therein: of which more ſhall be ſaid anon.</p>
+            <p>It is the Moon, the leſſer light, (or rather, a body that is opake, and hath no innate light at all) that thus Ecli<g ref="char:EOLhyphen"/>pſeth the Sun, the Royal Lamp of heaven; the glorious <hi>Fountain of Light,</hi> from whence ſhe her ſelf receives illu<g ref="char:EOLhyphen"/>mination. I hope and pray, That no actions of <hi>Ingrati<g ref="char:EOLhyphen"/>tude,</hi> correſpondent to ſo unuſual an Eclipſe, may appear, or be perpetrated in any part of this our <hi>European world.</hi> The Moon Eclipſeth the Sun, in her own dignities; in a place, where ſhe hath power to <hi>triumph</hi> and <hi>tyrannize</hi> to purpoſe. The Sun (ſay Aſtrologers) ſignifies, the moſt <hi>il<g ref="char:EOLhyphen"/>luſtrious</hi> and <hi>glorious,</hi> of Perſons and Things: the Moon, the <hi>baſest,</hi> and <hi>most-to-be-contemned</hi> and <hi>deſpiſed.</hi> I could acquaint you with many ſuch kinde of Eclipſes, both of former and later times; and with the <hi>triſtitious attendants</hi> of them: but I would not be thought <hi>Dolores renovare,</hi> to
+<pb n="8" facs="tcp:38386:9"/>renew <hi>old Sorrows,</hi> or awake the ſleeping Errours of either our own, or any other Kingdom or Nation.</p>
+            <p>
+               <hi>A Signo deliquii ſumitur judicium generis rerum afficicien<g ref="char:EOLhyphen"/>dorum.</hi> Aſtrologers in giving Judgements upon the de<g ref="char:EOLhyphen"/>fects of the Luminaries, ſay, That the Effects of them ſhall fall principally upon thoſe kindes of men or things, which are ſignified by the ſigne wherein the Eclipſe happens.</p>
+            <p>
+               <note place="margin">Eclipſis Salis in ♋, ♏ aut ♓ obſcurae, turbae ignobiliſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ple<g ref="char:EOLhyphen"/>beculae interi<g ref="char:EOLhyphen"/>tus, diuturnae bellorum, ſedi<g ref="char:EOLhyphen"/>tiones, &amp; a<g ref="char:EOLhyphen"/>quatilium ma<g ref="char:EOLhyphen"/>rinorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; aliorum in ae<g ref="char:EOLhyphen"/>quore degenti<g ref="char:EOLhyphen"/>um magna per<g ref="char:EOLhyphen"/>nicies. <hi>Procl.</hi>
+               </note> The ſigne wherein this <hi>famous Eclipſe</hi> is celebrated (as you have already heard) is Cardinal-Moveable-Watery, and Foeminine. The learned <hi>Proclus</hi> ſaith, <hi>An Eclipſe of the Sun in the Watery Triplicity</hi> (chiefly the diguities of the Moon, ſhe having ſignification of the Popular multitude) <hi>denotes a rot or conſumption of the vulgar ſort of people, many rumours and diſcontents, great Seditions, Mutinies, and expe<g ref="char:EOLhyphen"/>ctations of Wars; a deſtruction of Water-fowl, and death of Fiſhes; great Inundations, and overflowings of Sea-banks, drowning of many places; with many great and unheard-of miſchiefs, acted and done by and upon the Waters.</hi>
+            </p>
+            <p>
+               <note place="margin">In ſecundo De<g ref="char:EOLhyphen"/>cano, ſtuvios &amp; fontes exſic<g ref="char:EOLhyphen"/>cat, inconti<g ref="char:EOLhyphen"/>nentiam, &amp; petulantium mortalibus in<g ref="char:EOLhyphen"/>tentar. <hi>Procl.</hi>
+               </note> And as very much damage and prejudice to ſome peo<g ref="char:EOLhyphen"/>ple, parts or places, is probable to happen, by or upon the Waters, <hi>&amp;c.</hi> ſo alſo it is very likely to fall out unto others, by reaſon of a want or ſearcity of Waters. And ſo ſaith the ſame Author, in theſe words;— <hi>When the Sun ſhall ſuf<g ref="char:EOLhyphen"/>fer an Eclipſe in the ſecond Decanate of</hi> Cancer, <hi>Fountains and Rivers ſhall be dried up, and there will be a great want of waters; mach incontinencie among men and women doth alſo ſucceed; and a great deal of fraud, circumvention and deceit will be practiſed.</hi>
+            </p>
+            <p>But now, as this eminent Eclipſe falls in a ſigne of the <hi>Watery Triplicity;</hi> ſo it happens in a Cardinal Tropical ſigne likewiſe. And all Aſtrologers conſent, that Eclipſes in <hi>Aequinoctial</hi> and <hi>Tropical</hi> (which are the onely <hi>Cardinal</hi>) ſignes, are of the <hi>must eminent concernment</hi> unto this ter<g ref="char:EOLhyphen"/>rene Globe, and pour down their influences upon it the moſt forcibly and violently.</p>
+            <p>
+               <hi>Aequinoctia ſigna &amp; Tropica turbulentiora &amp; populariora dicimus, &amp; generaliter ſignificant rerum Civilium mutatio<g ref="char:EOLhyphen"/>nem,</hi> ſaith one: <hi>(id est) We finde by experience, that your
+<pb n="9" facs="tcp:38386:9"/>Tropical and Equinoctial ſignes are more violent, turbulent, and popular, then are any of the other parts of the Zodiack; and Eclipſes, great Conjunctions, Comets,</hi> &amp;c. <hi>happening in any of them, are the most remarkable in their effects.</hi>
+            </p>
+            <p>The reaſon hereof is neer at hand: the greateſt and moſt noble of <hi>actions</hi> and <hi>things</hi> (be they Eccleſiaſtical or Ci<g ref="char:EOLhyphen"/>vil) are dependant upon Cardinal or Tropical ſignes; they are the Hinges or <hi>Axis</hi> upon which the moſt weighty and illuſtrious Perſons or Matters (either of Univerſal or Par<g ref="char:EOLhyphen"/>ticular, Publique or Private concernment) move or turn. And when an Eclipſe, Comet, or other Celeſtial <hi>Phaenomena</hi> happens therein, ſuch things, or perſons, moſt naturally and principally are deſigned to ſhare in their Influences.</p>
+            <p>We have inſtances familiar enough, in the common vi<g ref="char:EOLhyphen"/>ciſſitudes of the Weather, of the great verity hereof. For when any grand <hi>Satellitium,</hi> Conjunction, Oppoſition, or Quadrate Aſpect of the Planets happens to be in Cardinal Signes, the Air is more then ordinarily perturbed; as we ſaw it in the Effects of the Quadrate of <hi>Sol</hi> and <hi>Saturn,</hi> on <hi>March</hi> 30. this year, and upon the Oppoſition of the Sun and <hi>Saturn</hi> on <hi>June</hi> 29. following; as alſo, upon the Qua<g ref="char:EOLhyphen"/>drate of <hi>Sol</hi> and <hi>Saturn</hi> on <hi>September</hi> 27. after that: theſe Aſpects all happening in Cardinal Signes; as may be ſeen by the <hi>Ephemerides.</hi> We know alſo, that perſons born un<g ref="char:EOLhyphen"/>der Cardinal Signes, are more vigorous, active, and (I was about to ſay) violent, then others: as to inſtance in the late King of <hi>Sweden, Carolus Guſtavus; Oliver Cromwel;</hi> the preſent Emperour of <hi>Turkey; cum multis aliis,</hi> of for<g ref="char:EOLhyphen"/>mer and later times. We could prove likewiſe, that thoſe Kingdoms, <hi>&amp;c.</hi> whoſe Aſcendents are Cardinal Signes, are more ſpirituous, couragious, active, furious, mutable, and inconſtant, then are other Kingdoms, whoſe Horoſcopes are in other parts of the Zodiack; as <hi>Germany, Polonia, France, Saxony, Alſatia, Holland, Denmark,</hi> and <hi>England</hi> too; for that is under <hi>Aries,</hi> and hath been ſubject (the more is the pitie) to mutability and inconſtancie as much as any other Nation whatever.</p>
+            <p>But to paſs by this little Digreſſion: not onely the E<g ref="char:EOLhyphen"/>clipſe
+<pb n="10" facs="tcp:38386:10"/>is in a Cardinal Signe, but at the time of the defect, the two infortunate Stars (ſo called by reaſon of their in<g ref="char:EOLhyphen"/>temperate natures and qualities, and the malignant Ef<g ref="char:EOLhyphen"/>fects they are always by experience known to ſend among mortals) <hi>Saturn</hi> and <hi>Mars,</hi> do obviate the Luminaries from Cardinal Signes; thereby making the darkneſs much blacker in its effects, then otherwiſe it would be. And theſe two Planets do not onely conſpire againſt the Sun, (the Luminary ſuffering) and the Moon, the Agent in this <hi>Deliquium;</hi> but croſs and ſquare each other, and that (in ſome reſpects) maliciouſly. As if they intimated ſome more then ordinary miſchiefs, and alterations to be (un<g ref="char:EOLhyphen"/>der the influence of this Eclipſe) hatching and contriving (either in <hi>Italy, Holland,</hi> or ſome other parts beyond the Seas;) which when brought to paſs, the Projectors them<g ref="char:EOLhyphen"/>ſelves (<hi>Saturn</hi> and <hi>Mars</hi>) by contending with each other, will but make room for the advancement and promotion of ſome yet-unexpected and unthought-of perſon or inte<g ref="char:EOLhyphen"/>reſt. <hi>Mercury</hi> ſits and ſmiles at the forward ſolly, and raſh adventures of the other Planets:<note place="margin">Planeta qui eſt in undeci<g ref="char:EOLhyphen"/>ma domo, alti<g ref="char:EOLhyphen"/>or est illo qui in <hi>9, 6,</hi> aut <hi>3</hi> est. <hi>Haly.</hi> Mercurius do<g ref="char:EOLhyphen"/>minus deli, uii generaliter quidem in illi<g ref="char:EOLhyphen"/>us ſtellae natu<g ref="char:EOLhyphen"/>ram ſe inſinu<g ref="char:EOLhyphen"/>at, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> conver<g ref="char:EOLhyphen"/>titur, cum qua fuerit configu<g ref="char:EOLhyphen"/>ratus, &amp;c. <hi>Ptol. l. 2. C. 8. Apotel.</hi>
+               </note> 'tis he that is the ſtron<g ref="char:EOLhyphen"/>geſt Planet in the Figure, and of all moſt nobly placed in the Heavens. <hi>A Planet in the eleventh houſe</hi> (ſaith <hi>Haly</hi>) <hi>is higher then one in the ninth, ſixth, or third:</hi> And able (there<g ref="char:EOLhyphen"/>fore) to attempt and compaſs nobler things then he.</p>
+            <p>
+               <hi>The nimble Planet Mercury being Lord of an Eclipſe, gene<g ref="char:EOLhyphen"/>rally aſſumes the nature of that Planet with whom he is configu<g ref="char:EOLhyphen"/>rated.</hi> Howbeit, as he is the Author of quick and violent motion, ſo he intimates celerity in humane actions, affairs, and concernments; irritates much cunning, craft, and ſubtilty, lying and deceit, perjury, <hi>&amp;c.</hi> much robbing both at Sea and Land; makes much controverſie in the Cuſtoms and Laws of Nations, alterations of old Privi<g ref="char:EOLhyphen"/>ledges, Charters, or Corporations; many Law-ſuits and unappeaſable differences he promotes. In the Air (he be<g ref="char:EOLhyphen"/>ing cold and dry, and moſtly neer the Sun) he generates high and bluſtering winds, great tempeſts, thunders and hightnings, ſometimes earth quakes, <hi>&amp;c.</hi> Hereſies and Schiſms get ground under his Regencie, (<hi>Europe</hi> has no
+<pb n="11" facs="tcp:38386:10"/>need of that) and a race of people uſually appear, that will contemn Ceremonies, and throw dirt in the face of all Religious Worſhip: he alſo denotes depopulations, and a deſtruction of things uſeful for the ſupport of humane life; and hinders the growth of vegetables: he ſtirs up diſeaſes of ſiccity, as Conſumption, Ptiſick, Fevers, <hi>&amp;c.</hi> Theſe are the natural ſignifications of <hi>Mercury,</hi> as Lord of an Eclipſe: but as he is in Aſpect of <hi>Jupiter,</hi> (though it be by a Quadrate) it is to be hoped that his effects will meet with ſome abatement; but much I cannot promiſe my ſelf, becauſe <hi>Jupiter</hi> is juſt leaving <hi>Piſces,</hi> and neerly in Oppoſition of <hi>Mars</hi> in this Ecliptical Figure: yet ſome<g ref="char:EOLhyphen"/>what he will perform, by vertue of his own benefique na<g ref="char:EOLhyphen"/>ture, and of his having rule in this great <hi>Deliquium,</hi> next unto <hi>Mercury,</hi> whoſe effects I have at large related.</p>
+            <p>And not onely <hi>Mercury</hi> hath ſignification of the afore<g ref="char:EOLhyphen"/>ſaid diſtempers, but the Eclipſe in general is the fore-run<g ref="char:EOLhyphen"/>ner of many tedious and durable infirmities that ſhall af<g ref="char:EOLhyphen"/>flict the perſons of men and women: <hi>Saturn<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> is in <hi>Capri<g ref="char:EOLhyphen"/>corn</hi> in the ſixth houſe, (of the Greeks called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from the great infelicity and unhappineſs which diſeaſes bring to mankinde; they being the envious oppoſites un<g ref="char:EOLhyphen"/>to health, which is the greateſt bleſſing in the world, and moſt of all to be coveted!) and there powerful to do miſ<g ref="char:EOLhyphen"/>chief: <hi>Mars</hi> alſo is Lord of that Angle by Exaltation, and (being in reception and Quartile of <hi>Saturn</hi>) ſhall in part deſigne the diſeaſes portended, <hi>viz.</hi> the Calenture, Jaun<g ref="char:EOLhyphen"/>dies, Impoſthumes, Madneſs, Peſtilence, Pox, Botches, In<g ref="char:EOLhyphen"/>flammations, <hi>&amp;c.</hi> Wherefore, by reaſon of his violence and deſtructive poyſonous qualities, he is much to be fear<g ref="char:EOLhyphen"/>ed. <hi>Cave iram Martis:</hi> we ought, when in a Figure of an Eclipſe we finde <hi>Mars</hi> in a poſition apt for the promoting of miſchiefs, to beware of his raging and thundering threats.</p>
+            <p>It is the opinion of <hi>Hermes, Aphor.</hi> 90. that <hi>Saturn per<g ref="char:EOLhyphen"/>forms evil more ſlowly, but Mars more ſwift: and Mars is there<g ref="char:EOLhyphen"/>fore</hi> (ſaith he) <hi>obſerved to hurt more then Saturn.</hi> Moſt ſure I am, that although <hi>Mars,</hi> in regard of his velocity and
+<pb n="12" facs="tcp:38386:11"/>heat, hurts more, (that is, more furiouſly and ragingly) then <hi>Saturn</hi> doth; yet is <hi>Saturn</hi> (as I before urged) the au<g ref="char:EOLhyphen"/>thor and procurer of the moſt durable miſchiefs and miſe<g ref="char:EOLhyphen"/>ries unto mankinde: And as he <hi>(ſecundum Hermetem)</hi> per<g ref="char:EOLhyphen"/>forms evil more ſlowly, yet by reaſon of his tardous mo<g ref="char:EOLhyphen"/>tion, and envious tenacious nature, he is moſt certain to accompliſh it the more ſurely: and this I am afraid we poor mortals ſhall finde and experience to purpoſe, from his envious, malignant, and pernicious effects, portended unto us by his poſition in this Solar defect.</p>
+            <p>Surely God is angry with theſe Weſtern parts of the world, and that exceedingly! in that he ſhews ſo many e<g ref="char:EOLhyphen"/>minent and ſignal tokens of his divine diſpleaſure againſt us. But lately, <hi>viz. anno</hi> 1663. on <hi>Octob.</hi> 10. was celebra<g ref="char:EOLhyphen"/>ted an unuſual Conjunction of <hi>Saturn</hi> and <hi>Jupiter,</hi> in the Regal and fiery ſigne <hi>Sagittary:</hi> ſuch a Conjunction that happens but once in 795 years, it beginning the circuit of thoſe two Planets in the Fiery Trigon <note n="*" place="margin">
+                  <hi>See more of this Conjuncti<g ref="char:EOLhyphen"/>on in my</hi> Dies Noviſſimus, <hi>or</hi> Dooms-day not ſo neer as dreaded.</note>
+            </p>
+            <p>And a little after that, there appeared three dreadful Comets or Blazing Stars, as ſo many <hi>Monitors</hi> of approa<g ref="char:EOLhyphen"/>ching terrours and dangers to befal moſt part of the habi<g ref="char:EOLhyphen"/>table Globe: thoſe Comets having relation in their mo<g ref="char:EOLhyphen"/>tion, unto almoſt three parts of the whole Zodiacal Cir<g ref="char:EOLhyphen"/>cle. And now this year, (as if thoſe rare and unuſual <hi>Phae<g ref="char:EOLhyphen"/>nomena</hi> were not of themſelves ſufficient to preſage hor<g ref="char:EOLhyphen"/>rour enough to compleat poor <hi>Europes</hi> already-begun mi<g ref="char:EOLhyphen"/>ſeries!) we are fallen under the effects of a Solar Eclipſe, in a Cardinal Tropical ſigne: and this defect was viſible to all this Occidental part of the world: the glorious Lamp of heaven refuſing to afford us his wonted benigne influences, by ſuffering (in this defect) his nobler rays to be with-held from us.</p>
+            <p>As the ſad and to-be-lamented effects of theſe ſeveral <hi>Celestial Ambaſſadours,</hi> we have had our ſufficient ſhare of <hi>Wars,</hi> the company of that horrid, black and diſmal ene<g ref="char:EOLhyphen"/>my the <hi>Pestilence;</hi> a miſerable deſolation and deſtruction by <hi>Fire;</hi> and all theſe too long and too heavie upon us! and yet <hi>Gods anger is not turned away, his hand is ſtretched
+<pb n="13" facs="tcp:38386:11"/>out ſtill <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+               </hi> the envious Planet <hi>Saturn,</hi> and furious Planet <hi>Mars</hi> (by their maleſique poſitions and configuration in this Solar <hi>Deliquium</hi>) are yet working more miſchieſs and di<g ref="char:EOLhyphen"/>ſturbances, in the mindes, manners, and actions of man<g ref="char:EOLhyphen"/>kinde; and will (by their evil influence) hinder and ob<g ref="char:EOLhyphen"/>ſtruct the courſe of things, both in Natural Generation, and in Trade, and in affairs of moſt kindes. God grant a <hi>Famine</hi> ſucceed not thoſe ſeveral former ſeverer Judge<g ref="char:EOLhyphen"/>ments of the Almighty, if it be his bleſſed will. Although thoſe other Judgements have been afflictions grievous to be born, and eminently terrifying (almoſt) unto all ſorts of people; yet the leaſt part of the <hi>Famine</hi> will be far more tranſcendently intolerable and crued unto mankind, then all the other put together.</p>
+            <p>
+               <hi>Famine</hi> (ſaith one) <hi>is ſometimes ſo fierce, that it makes the mother uſe the teeth in ſtead of her lips to her own childe; to bite without pitie the infant which ſhe uſed to kiſs; and in ſtead of giving it ſuck, to let out the bloud of it.</hi> God keep ſo black an enemy from the doors of all true-hearted <hi>Engliſh-men I</hi> we have had our portion of <hi>Plenty,</hi> and this in ſo great and abundant meaſure, that we have wallowed therein: Oh! that we might be able to divert our part of <hi>Penury,</hi> by acts of <hi>Charity,</hi> Prayer, and Repentance.</p>
+            <p>Had we no aſſiſtance from the Celeſtial movers for our Judgements in theſe matters, yet thoſe obſervations we are able to make from common Experience, might readi<g ref="char:EOLhyphen"/>ly inculcate to us a more-then-ordinary probability there<g ref="char:EOLhyphen"/>of; ſince it is the Order which God and Nature obſerveth, to purſue a <hi>Plenty</hi> with a <hi>Dearth,</hi> and to puniſh extreme Wantonneſs with griping Want.</p>
+            <q>Bright mornings oft have blackest afternoons.</q>
+            <p>
+               <note place="margin">Ecliyſiu<g ref="char:cmbAbbrStroke">̄</g> Solis effectus poten<g ref="char:EOLhyphen"/>tes ſunt, unde ſi in florentem Meſſim inci<g ref="char:EOLhyphen"/>derint ſterili<g ref="char:EOLhyphen"/>tatem afferunt <hi>Seg. 2. Aph. 16</hi>
+               </note> The learned <hi>Hieronymus Cardanus</hi> tells us, (and I am a<g ref="char:EOLhyphen"/>fraid too oraculouſly) that <hi>the effects of an Eclipſe of the Sun are very powerful, which happening in the beginning of a hope<g ref="char:EOLhyphen"/>ful and flouriſhing harvest, denotes ſterility and barrenneſs to follow.</hi> I fear, I fear, that the great ſtrength of <hi>Saturn</hi> (I
+<pb n="14" facs="tcp:38386:12"/>
+               <note place="margin">Cadentia ſunt ſpiritus, &amp; quicquid acci<g ref="char:EOLhyphen"/>dit in eis, dem accidit in ſpiritibus. <hi>Haly.</hi>
+               </note> mean not particularly in this Solar Eclipſe, but) in this whole year, and ſome years yet ſucceeding, will, and doth preſage, not onely Sterility, or a Dearth of Corn, <hi>&amp;c.</hi> but a deſtruction of all things growing upon the earth, uſeful for mankinde. He is in a Cadent houſe in the heavens, thence afflicting the Lights: <hi>Haly</hi> ſays, that <hi>Cadent houſes are as it were ſpirits; and whatſoever happens in them,</hi> (he means either of fortitude or afflication) <hi>happens unto the ſpi<g ref="char:EOLhyphen"/>rits of men or things.</hi> Hence I am fearful, that not onely the ſpirits of ſeeds of Vegetables will loſe their ſoul and vigour, and not be capable of rooting and bringing forth the fruits of the earth, as at othe times. <hi>Saturn</hi> is a Pla<g ref="char:EOLhyphen"/>net cold and dry; and therefore (in a Phyſical ſenſe) a great enemy to, and hinderer of all Natures products, and indeed of all natural Exiſtencies: And he is now poſited in <hi>Capricorn,</hi> in a cold, dry, melancholy and feminine ſigne; as if the moſt hopeful conceptions were threatned to be deſtroyed in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or in the womb, and ſcarcely ſuffered to ſee the light; much leſs to come to maturity. The learned <hi>Rigel,</hi> in his 83 Aphoriſm, ſets it down as an abſolute Concluſion, <hi>That Saturn is the most pernicious and deſtructive in his effects, when he is poſited</hi> (as now in this E<g ref="char:EOLhyphen"/>clipſe) <hi>in a feminine ſigne.</hi>
+            </p>
+            <p>Thus you ſee, Authors are poſitive and agreeing: <hi>An Eclipſe in the beginning of a Harvest, denotes barrenneſs,</hi> ſaith <hi>Cardan.</hi>
+            </p>
+            <p>
+               <hi>The ſpirits of Vegetables,</hi> &amp;c. <hi>are afflicted,</hi> ſaith <hi>Haly.</hi>
+            </p>
+            <p>
+               <hi>Saturn is most deſtructive when in feminine ſignes,</hi> ſaith <hi>Ri<g ref="char:EOLhyphen"/>gel.</hi>
+            </p>
+            <p>The Eclipſe it ſelf began in <hi>June,</hi> a little after the be<g ref="char:EOLhyphen"/>ginning of the Summer, <hi>viz.</hi> when the Grain begins to harden in the Ear. We have had a very dry Summer; a hot and moiſt Autumn; (as if the natures of the Seaſons were really changed.) Let us petition, that God of his infinite goodneſs, would not permit or ſuffer our Harveſts for ſome years ſucceeding, either by <hi>unkinde and bitter froſts, Mildews,</hi> or <hi>unſeaſonable Showers,</hi> to be either <hi>blaſted</hi> or
+<pb n="15" facs="tcp:38386:12"/>
+               <hi>lodged,</hi> or ſuffer other damage or prejudice, before it comes to be fully hardened, and fit for the painful Husbandmans Sickle.</p>
+            <p>Yet a little further. <hi>Sol omnibus Planetis tribuit vires:</hi> (they are<note n="*" place="margin">Segm. 5. A<g ref="char:EOLhyphen"/>phor. 171.</note> 
+               <hi>Cardans</hi> words.) <hi>The Sun</hi> (as he is <hi>Rex Plane<g ref="char:EOLhyphen"/>tarum,</hi> the King of all Stars) <hi>gives ſtrength and power to the Planets.</hi> And when his ſight is hindered, his influence is obſtructed, and Nature receives a check in all her teem<g ref="char:EOLhyphen"/>ings, and is thereby much moleſted in her nobleſt and free<g ref="char:EOLhyphen"/>eſt operations.</p>
+            <p>
+               <note place="margin">Sol omnium fortunarum maxima eſt, neque Planeta ullus magis benifious. <hi>Card.</hi>
+               </note> And, <hi>There is no Planet more benefique and friendly unto this earthly Globe, then is the Sun: for he is the greatest of the for<g ref="char:EOLhyphen"/>tunate Stars,</hi> and diſperſes his happie rays and influences moſt liberally. Great therefore muſt the damages and in<g ref="char:EOLhyphen"/>juries be unto mankinde, when his moſt illuſtrious and nou<g ref="char:EOLhyphen"/>riſhing beams ſhall be with-held from them, though but for the ſmalleſt portion of time: much more, when we ſhall be deprived of his friendly rays ſome hours together, as now in this Solar <hi>Deliquium.</hi>
+            </p>
+            <p>And although there be ſome men who weakly main<g ref="char:EOLhyphen"/>tain, that Eclipſes have no more influences upon terrene bodies, then the black-fac'd night; yet deny they cannot, that the one is natural and ordinary, the other prodigious and extraordinary: and certainly their effects muſt be as different as their natures. Nay, they that quarrel moſt againſt the influences of ſuch obſcurities and defects, can<g ref="char:EOLhyphen"/>not (by their quarrelling) anticipate the effects thereby portended, in either their own, or friends Nativities.</p>
+            <p>The Diurnal motion of the Earth, (or Sun, if people will have it ſo) is ſuch, that there is an apparent Phyſical reaſon to be rendred of the common and never-failing in<g ref="char:EOLhyphen"/>tercourſe of Day and Night. But Eclipſes happening in no ſuch order, and at no ſuch certainty, <hi>(in reſpectu tempo<g ref="char:EOLhyphen"/>ris)</hi> clearly demonſtrate the darkneſs of the night leſs va<g ref="char:EOLhyphen"/>lid and efficacious, then that in Eclipſes: the one coming to paſs by a conſtant and unalterable Law or Edict of Na<g ref="char:EOLhyphen"/>ture; and the other happening by Natures Decrees alſo, but at no ſuch certain, diſtinct, and determinate times.</p>
+            <pb n="16" facs="tcp:38386:13"/>
+            <p>Were Eclipſes as certain to happen as is ſhe night, (I mean, when the ſame reaſon in Nature is afforded) then ſhould we have Eclipſes of both Luminaries every month: for, if we conſider that the Sun is eclipſed onely in his Sy<g ref="char:EOLhyphen"/>nod or Conjunction with the Moon; and the Moon ſuffers an obſcuration when ſhe is diametrically oppoſed to the Sun; we muſt conclude the cauſe of the Suns Eclipſe to be the interpoſition of the Moon between him and the Earth; and the cauſe of the Moons Eclipſe to be the in<g ref="char:EOLhyphen"/>terpoſition of the Earth between the Sun and her.</p>
+            <p>Now we know, that there is not a month paſſeth us, but affordeth a <hi>New</hi> and <hi>Full Moon;</hi> yet we may be ſix months and more, ſometimes, without an Eclipſe of either Lumi<g ref="char:EOLhyphen"/>nary: <hi>Ergo,</hi> Eclipſes are of far greater concernment un<g ref="char:EOLhyphen"/>to mankinde, then the Enemies of Aſtrologie are aware of, whoſe ignorance in <hi>Starry matters,</hi> would ſeem to make them of one and the ſame influence and effect with the ne<g ref="char:EOLhyphen"/>ceſſary darkneſs and obſcurity of the night.</p>
+            <p>The natural privation of light in the night, is (in its kinde) of as good uſe unto all things ſublunary, as the ſplendour and beauty of the day; and is as neceſſarily op<g ref="char:EOLhyphen"/>poſed thereunto, as the ſiceity and calidity of the Summer and Autumn, to the humidity and frigidity of the Spring and Winter. But as it muſt be deſtructive to have two Summers in a year, where one is of ſufficient force to ri<g ref="char:EOLhyphen"/>pen all that one Spring can produce; ſo muſt it needs be contrary to the increaſe and nouriſhment of the ſeminal vertues of all terrene productions, to have a double night; or in the ſtead of one, a night and a half, whenas one ſingly is endowed with vigour enough, to concoct and al<g ref="char:EOLhyphen"/>lay the heat of bright <hi>Phoebus</hi>'s ſcorching rays, that one day affords. I will conclude this Digreſſion with an Ex<g ref="char:EOLhyphen"/>curſion of the learned <hi>Peucer</hi> concerning the effects of E<g ref="char:EOLhyphen"/>clipſes: <hi>Quantos incendit aeſtus quamdiu flagrantes, Solis ſub ♈ anno quadrageſinno? Quos motus in Orbe Terrarum commovit, cum haec Solis, tum altero anno poſt Lunae Eclipſis? Nata ex illis &amp; propagata ſunt ſemina malorum omnium, quae tunc cum noſtras urgeant cervices, &amp; vitae fortuniſque miniten<g ref="char:EOLhyphen"/>tur,
+<pb n="17" facs="tcp:38386:13"/>imme intentent atque in ferant perniciem, evidentius ſenti<g ref="char:EOLhyphen"/>mus &amp; ferimus ac deploramus acerbius. Quantas lites, quam ſuperba diſſidia, &amp; occulta odia, inſidiaſque quam violenta con<g ref="char:EOLhyphen"/>ſilia ſeverint ſtruxerintque quae bella indicerint, quae pericula no<g ref="char:EOLhyphen"/>cument aque frumento fructibuſque crearint, deliquia anni qua<g ref="char:EOLhyphen"/>drageſimi quarti, cum Luna tota, atra caligine, ter foedum in modum deformaretur? Sol plus de unce ſui orbis obſuſcaretur, adeo, ut in quibuſdam locis interdiu ſtellae illuxerint, ac conſpe<g ref="char:EOLhyphen"/>ctae ſint; eo ipſo, &amp; ſequentibus annu, ex eventu didicimus.</hi> Caſp. Peue. fol. 661. de Aſtrolog.</p>
+            <p>
+               <note place="margin">Prudenter Sa<g ref="char:EOLhyphen"/>lem conſidera; nam judicia Solis non ſant oblivioni <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>denda. <hi>L. Ri<g ref="char:EOLhyphen"/>giis.</hi>
+               </note> To proceed; we are adviſed by <hi>Rigel, prudently and wa<g ref="char:EOLhyphen"/>rily to conſider the Sun, and in no wiſe to forget in our Judge<g ref="char:EOLhyphen"/>ments what effects are dependant upon him;</hi> chiefly in an E<g ref="char:EOLhyphen"/>clipſe.</p>
+            <p>And <hi>Leovitius</hi> writing upon the great Eclipſe of the Sun which was conſpicuous upon <hi>April</hi> 9. 1567. with relation to the great Effects thereby portended, exclaims, <hi>Profe<g ref="char:EOLhyphen"/>cto tam tetram ac horrendam Eclipſin Solis ab anno Domini</hi> 1544. <hi>non habuimus, nec etiam multis futuris ſaeculis habituri ſumus.</hi> (i. e.) <hi>We verily</hi> (ſaith he) <hi>have not had ſo horrid and prodigious an Eclipſe of the Sun, ſince the year of our Lord</hi> 1544. <hi>neither ſhall we in many ages to come, have the like a<g ref="char:EOLhyphen"/>gain.</hi>
+            </p>
+            <p>As <hi>Leovirius</hi> ſaid then of that, ſo may I ſay of this E<g ref="char:EOLhyphen"/>clipſe; (and I hope, in ſome reſpects in may be received as a word of welcome to the world; it intimating, though not at preſent, yet a future happineſs unto it) we ſhall not in many Ages have the like Eclipſe again: but (miſtake me not) this I ſay not, by reaſon of the number of di<g ref="char:EOLhyphen"/>gits eclipſed; but by reaſon of that part of the Zodiack in which the defect happens, with a regard had unto the many ſad attendants it hath, and the ſeveral rough con<g ref="char:EOLhyphen"/>comitants it meets with, in ſignification and portent.</p>
+            <p>Some (perhaps) may wonder I inſiſt not upon the effects of <hi>Jupiter</hi> ſomewhat more in this Diſcourſe, he being the next in dignity to <hi>Mercury</hi> in this Solar Eclipſe. But to ſuch I anſwer, that his benifique<note n="*" place="margin">
+                  <hi>Jupiter</hi> muſt ſuffer many hardſhips, run thorow great difficulties, combat with many hazards, torments and afflictions, ſuf<g ref="char:EOLhyphen"/>fer ſeveral ſcoffs &amp; jeers &amp; many ſcars, wounds &amp; diſ<g ref="char:EOLhyphen"/>graces, before he can come to ſhine, and ſhew himſelf in his native luſtre, ſignification and portent.</note> ſignifications are hin<g ref="char:EOLhyphen"/>dered by <hi>Mars,</hi> (as before I urged) and alſo <hi>Saturn;</hi> ſo that
+<pb n="18" facs="tcp:38386:14"/>his noble ſignifications are herein totally impeded and ob<g ref="char:EOLhyphen"/>ſcured, at leaſt for a time: but poſſible it is, by that time <hi>Jupiter</hi> comes into <hi>Cancer</hi> again, the <hi>Saturnine evils</hi> will be a little blown over, and <hi>Europe</hi> may then begin to partake of his illuſtrious and noble rays and influences; which will then be ſo glorious and dazling, that Envie ſhall not ſtand before them.</p>
+            <p>Thus far in general: Come we next to ſome particulars by this Eclipſe denoted.</p>
+            <p>The Effects (ſuch ſad ones as they are) you have heard of already: my firſt particular Enquiry ſhall be of the <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>bi,</hi> the place where thoſe ſeveral before-mentioned Effects ſhall operate, or chiefly ſhew themſelves: And thoſe are ſuch, as Aſtrologers (from a large Experience of the <hi>beau<g ref="char:EOLhyphen"/>teous ſmiles,</hi> and <hi>black events</hi> of heaven) have placed under the Celeſtial Signe <hi>Cancer,</hi> and its Quadrangle, <hi>viz. Libra, Capricorn,</hi> &amp; <hi>Aries;</hi> ſome whereof (as you may ſee in my <hi>Doctrine of Nativities,</hi> from pag. 83. to pag. 87. in Part 1.) are <hi>Holland, Zealand, Scotland, Granada, Burgundia, Nu<g ref="char:EOLhyphen"/>midia, Carthage, Africa, Bithynia, Colchis, Denmark, Sweden, Germany, England, France, Palestina, Polonia mirtor, Auſtria, Livonia, Sabaudia, Thuſeia, Caſpia, Maccedonia, Illyria, Thrace, Albania, Bulgaria, Lituania, Saxonia, Haſſia, Thuringia, India,</hi> Iſles of <hi>Orchades,</hi> &amp;c. for Kingdoms and Countries. And for Cities and Towns, theſe: <hi>viz. Naples, Florence, Capua, Ferraria, Auguſta, Verona, Brunſwick, Padua, Amſterdam, Ve<g ref="char:EOLhyphen"/>nice, Genoa, Conſtantinople, Tunis, Cadiz, York, St. Andrews, Lisbon, Antwerp, Arles, Spires, Vienna, Frankfort, Placentia, Oxford,</hi> (poor <hi>Oxford!</hi>) <hi>Conſtance, Mecklin, Brandenburg, Vilna, Cleves,</hi> cum multis aliis, <hi>&amp;c.</hi> All which Kingdoms, Countries, Cities and Towns, or any of them, I ſay, are ſtrongly menaced by this eminent Solar Eclipſe; and their inhabitants will have great need to make uſe of both <hi>pray<g ref="char:EOLhyphen"/>ers</hi> and <hi>tears,</hi> to avert the heavie Judgements of a highly-offended God, at this time, and for ſome enſuing years, impending over them.</p>
+            <p>A Word unto each of theſe Kingdoms and Countries, more plainly.</p>
+            <pb n="19" facs="tcp:38386:14"/>
+            <p>
+               <hi>Holland</hi> and <hi>Zealand,</hi> you are in the firſt and chiefeſt place, concerned in this Celeſtial Apparition. <hi>Saturn</hi> is in Oppoſition to your Aſcendent: the Sun is Eclipſed in your Horoſcope: and the fiery Planet <hi>Mars</hi> is in Quadrate Aſpect unto it. Your Trade is in danger of being total<g ref="char:EOLhyphen"/>ly ruined; your Merchants, of being utterly undone: your Great-ones, are at their wits end; and Poor-ones, ready to mutiny for want of Bread! Make peace with <hi>England</hi> betimes, or ſhortly it will be too late for you: a little more ſtrugling will reduce you from <hi>High and Mighty,</hi> unto <hi>Poor and Diſtreſſed States!</hi> Let not your own Aſtrologers (as of late they have done) flatter you with the hopes of what is never likely to happen: for I unfeignedly proteſt, all theſe (and greater) miſchiefs will fall upon you, unleſs you are wiſe in time, and by a prudent and ſudden Submiſſion and ſeeking of Peace prevent it.</p>
+            <p>
+               <note n="*" place="margin">This was written before the late Rebel<g ref="char:EOLhyphen"/>lion there; but the Caution may ſerve for the future.</note> 
+               <hi>Scotland</hi> hath always had the reputation of a wiſe Na<g ref="char:EOLhyphen"/>tion: let not an Ignote Zeal againſt things indifferent, o<g ref="char:EOLhyphen"/>vercome thy Prudence: Croſs the Proverb which ſays, <hi>Omne malum à Boreale.</hi> Be peaceable, and be happie.</p>
+            <p>
+               <hi>Granada,</hi> thou waſt firſt raiſed out of the ruines of <hi>Illi<g ref="char:EOLhyphen"/>beris,</hi> and haſt long continued in great ſplendour: be not too confident of thy ſtrength and riches, but keep peace and amity with thy Neighbour-Princes: pay thy Tribute quietly to thy undoubted Soveraign, and then thou mayſt eſcape returning into thy firſt matter.</p>
+            <p>
+               <hi>Burgundia,</hi> thou didſt firſt own the God of the Chriſtians for thy advantage: it will be for thy profit now, to main<g ref="char:EOLhyphen"/>tain thy Religion, and thy Peace.</p>
+            <p>
+               <hi>Numidia,</hi> be quiet within thy ſelf; quell Mutinies and Inſurrections in the bud; and pray that thy Prince be as fortunate as <hi>Maſſiniſſa</hi> was.</p>
+            <p>
+               <hi>Carthage,</hi> (once the Lady and Miſtreſs of <hi>Africa,</hi> and ſo continued neer 730 years;) thou haſt been often obſcured; now thou art threatned again, but not with total ruine: It was thy Cuſtom to crucifie, not onely the unhappie Ca<g ref="char:EOLhyphen"/>ptain, but even him whoſe bad counſel had a proſperous
+<pb n="20" facs="tcp:38386:15"/>event: Improve at this time the advice of thy vertuous Counſellors, and be happie.</p>
+            <p>
+               <hi>Africa,</hi> (the <hi>Romane Africa</hi> I mean) thy abundant Plen<g ref="char:EOLhyphen"/>ty is turning into Want.</p>
+            <p>
+               <hi>Bithynia,</hi> thou waſt not formerly more peaceable, plea<g ref="char:EOLhyphen"/>ſant, and fertile, under the Government of the Chriſti<g ref="char:EOLhyphen"/>ans; then now thou art likely to prove unquiet, diſtur<g ref="char:EOLhyphen"/>bant, and barren, under the Turks.</p>
+            <p>
+               <hi>Colchis,</hi> the glory of <hi>Armenia,</hi> thy Chymical Sun is neer an eclipſe; thy Golden Fleece, and all thy Mynes, are de<g ref="char:EOLhyphen"/>parting from thee.</p>
+            <p>
+               <hi>Denmark,</hi> thy Prince hath a Royal Geneſis, yet he is but a man: let not a <hi>Cancerian people</hi> by their policy bring thee under water.</p>
+            <p>
+               <hi>Sweden,</hi> if Sword and Sickneſs get not the upper hand of thee, thou mayſt do pretty well: thy damage comes from the South.</p>
+            <p>
+               <hi>Germany,</hi> be patient a little, and let the Whirlwinde paſs thee; and thy Sun ſhall ſhine again, and thy Eagle ſhall extend her wings, and flie a pitch, beyond the power of Turk or Tartar to moleſt thee.</p>
+            <p>
+               <hi>England,</hi> be quiet a while, thy Storm is neerly over: practiſe Loyalty, keep Peace within thy ſelf, and the con<g ref="char:EOLhyphen"/>ſpiring world ſhall never injure thee.</p>
+            <p>
+               <hi>France,</hi> the effects of <hi>Med. Coel.</hi> to a Square of <hi>Mars</hi> at<g ref="char:EOLhyphen"/>tend thee: truſt not too confidently to thy Purſe and Power.</p>
+            <p>
+               <hi>Palestina,</hi> the Sun's aſhamed to ſee thy <hi>Holy Land.</hi>
+            </p>
+            <p>
+               <hi>Polonia minor,</hi> thou art falling retrograde under the ef<g ref="char:EOLhyphen"/>fects of this Eclipſe; there needs no other bridle to keep thee from advancing.</p>
+            <p>
+               <hi>Auſtria,</hi> cheriſh not Factions within thy ſelf: thy E<g ref="char:EOLhyphen"/>clipſe will prove but Platique, and that <hi>(ſine mora)</hi> with<g ref="char:EOLhyphen"/>out continuance: thou wilt recover thy glory again.</p>
+            <p>
+               <hi>Livonia,</hi> thy Merchants ſmart to purpoſe; domeſtique Quarrels, and petit Tyrannies, bring the ſcourge upon thee.</p>
+            <p>
+               <hi>Sabaudia,</hi> thou art moleſted both at home, and from
+<pb n="21" facs="tcp:38386:15"/>abroad, and wilt be for a ſeaſon: afterwards, thou mayſt of <hi>Malvoy,</hi> become <hi>Salvoy</hi> again.</p>
+            <p>
+               <hi>Thuſcia,</hi> the honour of <hi>Italy,</hi> for promoting Celeſtial Learning; the glory of the world, for unexhauſted and never-failing Steel-mynes: pray that thy ſlighting the former, bring not upon thee the malevolent effects of the later.</p>
+            <p>
+               <hi>Caſpia,</hi> Inteſtine Jars, and Forraign Enemies, create much trouble unto thee: be aſſiduouſly vigilant and preparing, that the <hi>Parthian ſword</hi> prove not too ſharp and heavie for thee.</p>
+            <p>
+               <hi>Macedonia,</hi> be careful to prevent Fires, and trade not too much Weſtward.</p>
+            <p>
+               <hi>Illyris,</hi> 'tis thy lot to have many Conquerours.</p>
+            <p>
+               <hi>Thrace,</hi> thy ancient Cuſtom was to mourn at the birth of Children, and to rejoyce at their death: it was a Practice Orthodox and Pious; aſſume it again, it may now be ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+            <p>
+               <hi>Albania,</hi> kick not againſt thy Superiours, nor thy Peace; leſt another <hi>Scanderbeg</hi> riſe out of thy own bowels again, to puniſh thee.</p>
+            <p>
+               <hi>Bulgaria,</hi> be wiſe; leſt thy too ſtrict adhering to a Turkiſh faith, ruine thy ſtately Palaces, and deſtroy thy Princely Cities.</p>
+            <p>
+               <hi>Lituania,</hi> Worſhip and ſerve the true God; your <hi>Diſh<g ref="char:EOLhyphen"/>pan,</hi> or God of Smoke, cannot ſave you from common Flames or Troubles.</p>
+            <p>
+               <hi>Saxonia,</hi> keep peace with the Emperour, and ward a Weſtward ſtorm.</p>
+            <p>
+               <hi>Haſſia,</hi> thy <hi>Lion barry</hi> is like to loſe his Crown; engage not too far, for fear on't.</p>
+            <p>
+               <hi>Thuringia,</hi> Hiſtory makes mention of thy having been many times burnt, but thou haſt revived, like a Phoenix out of the aſhes, into greater glory. God grant thou mayſt be ſo happie now, and ever.</p>
+            <p>
+               <hi>India,</hi> as thy Country is great and populous, ſo thy afflictions deſigned by this Eclipſe, will be great and emi<g ref="char:EOLhyphen"/>nent.</p>
+            <pb n="22" facs="tcp:38386:16"/>
+            <p>
+               <hi>Orchades,</hi> thy Swans ſing not ſo ſweetly as in times paſt; and thy great plenty of Fiſh, ſeems waſted: thy inhabi<g ref="char:EOLhyphen"/>tants grow ſluggiſh and inactive; Diſeaſes waſte their cou<g ref="char:EOLhyphen"/>rage: but you will meet with timely relief and amend<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Secondly, and not onely to Kingdoms, Countries and Cities, <hi>&amp;c.</hi> are theſe Ecliptical effects carryed or directed; but unto many individual perſons, men, women, and chil<g ref="char:EOLhyphen"/>dren: more eſpecially unto ſuch, that ſhall have either the tenth degree of <hi>Cancer,</hi> or its oppoſite Signe <hi>Capricorn</hi> their <hi>Medium Coeli,</hi> Horoſcope, or place of either of the Luminaries in their Nativities.</p>
+            <p>Unto ſome perſons, they denote death; to others, tedi<g ref="char:EOLhyphen"/>ous and durable infirmities; unto a third ſort, they de<g ref="char:EOLhyphen"/>nuntiate a Cataſtrophe of Honour, and a ruine of reputa<g ref="char:EOLhyphen"/>tion, fame, <hi>&amp;c.</hi> affliction by continual Controverſies, ve<g ref="char:EOLhyphen"/>xatious Law-ſuits, <hi>&amp;c.</hi> to a fourth ſort, deſtruction of Pa<g ref="char:EOLhyphen"/>rents, friends and acquaintauce, or an abſolute hatred be<g ref="char:EOLhyphen"/>tween them and the Natives contracted or procured, no ways reconcileable. To a fifth ſort, Impriſonments, Ba<g ref="char:EOLhyphen"/>niſhments, Exile, the wrath of Princes and Potentates. To a ſixth ſort, Blindneſs, or loſs of one of the Luminaries of their bodies: and this moſt certain, if the Sun and Moon were weak, or any way afflicted at the birth of ſuch perſons.</p>
+            <p>Thirdly, ſuch perſons as ſhall be born at the time of this Eclipſe, will either ſuddenly, (or elſe in ſome ſhort time after it) die: or if for ſome competent ſpace of time they ſhould poſſeſs a place among the living, they will live moſt miſerable and diſeaſed; ſubject to a thouſand trou<g ref="char:EOLhyphen"/>bles and infortunacies, <hi>&amp;c.</hi> And I could wiſh that any in<g ref="char:EOLhyphen"/>genious adverſary to Aſtrologie, (for ſome ſuch I have charity to think there are) would take the pains, and ob<g ref="char:EOLhyphen"/>ſerve the births of ſuch children, (for I, God permitting life and liberty, intend to do the like) and after a candid inſpection, of the Figures, and ſerious obſervation of the Natives unto whom they belong, publiſh them, either to
+<pb n="23" facs="tcp:38386:16"/>the diſparagement of Aſtrologie, or conviction of their former thoughts thereof. The tryal would be eaſie, and might either correct the confidence of Aſtrologers, or bet<g ref="char:EOLhyphen"/>ter in form the judgements of their Antagoniſts.</p>
+            <p>Fourthly, to put a little more weight in the Seale; per<g ref="char:EOLhyphen"/>ſons that ſhall be born at the time of this Eclipſe, if they ſhall prove vital, will be ugly, or of an ill-favour'd aſpect; that for their evil looks they ſhall be hated and abhorred by many while they do live. The reaſon hereof is this: <hi>Saturn</hi> and <hi>Mars,</hi> the two infortunate Stars, afflict the Lu<g ref="char:EOLhyphen"/>minaries at the time of this Eclipſe: and Aſtrologers ſay, <hi>(nemine contradicente)</hi> When the Sun or Moon ſhall be (an any Geniture whatever) in Conjunction, Quartile, or Op<g ref="char:EOLhyphen"/>poſition of <hi>Saturn</hi> and <hi>Mars,</hi> (chiefly when both of them ſhall ſo ſuffer) it portends an ill aſpect, and great detri<g ref="char:EOLhyphen"/>ment and damage to the Natives ſight, if not an abſolute blindneſs.</p>
+            <p>But then (perhaps) you'll ſay, this Aſtrological reaſon is not Univerſal enough: take then a Phyſical one: The ſight reſides in the Eyes, and particularly in the Chryſtal<g ref="char:EOLhyphen"/>line humour there; which is by nature cold and moiſt, and governed by the Luminaries of heaven: [for Man, you muſt know, is a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>little world,</hi> and hath a Sun and Moon in him, like the greater:] now this noble and Celeſtial humour, being oppoſed and oppreſſed by one more earthly, (as <hi>Saturn</hi> properly ſignifies) or by one more hot and fiery, (as <hi>Mars</hi> governs) is attracted beyond its proper and peculiar ſeat; and thereby made not onely leſs ſerviceable, but leſs pleaſant, according to the quanti<g ref="char:EOLhyphen"/>ty of the oppreſſion it labours under. Whence come thoſe unpleaſant looks, and abhorred defects in many perſons, commonly called Purblinde, Squint-ey'd, <hi>&amp;c.</hi> and ſome<g ref="char:EOLhyphen"/>times an abſolute blindneſs, or total deprivation of ſight.</p>
+            <p>Many more matters might have been obſerved from this eminent and famous Solar defect; but theſe ſhort Animad<g ref="char:EOLhyphen"/>verſions touching upon the principal things thereby ſigni<g ref="char:EOLhyphen"/>fied, ſhall ſerve to illuſtrate the effects thereof; and alſo to commute for my promiſe made in my laſt years <hi>Ephemeris</hi> concerning the ſame.</p>
+            <div type="postscript">
+               <pb n="24" facs="tcp:38386:17"/>
+               <head>POST-SCRIPT, <hi>Ad Lectorem.</hi>
+               </head>
+               <p>BEing in <hi>London</hi> all the late <hi>terrible Viſitation,</hi> and ob<g ref="char:EOLhyphen"/>ſerving this <hi>quondam-glorious Citie</hi> labouring under the mightieſt <hi>Diſcontents</hi> imaginable; ſadly <hi>lamenting</hi> the diſmal ſight of <hi>Coffins,</hi> and their <hi>Cadaverous gueſts;</hi> having no other <hi>Muſick</hi> heard within her, but <hi>Bells</hi> to a <hi>mournful tune,</hi> and her <hi>inhabitants</hi> in every corner <hi>wretchedly bewail<g ref="char:EOLhyphen"/>ing</hi> the loſs of their <hi>Relations</hi> of all kindes: And taking notice, that, not onely <hi>Empericks,</hi> but the <hi>learned Phyſici<g ref="char:EOLhyphen"/>ans</hi> themſelves, were deceived in their <hi>Prognosticks</hi> and <hi>Cures</hi> of that <hi>Raging Pest.</hi> 'Tis true, they uſed <hi>divers Means,</hi> to put a <hi>check</hi> unto its <hi>fury;</hi> but, as the number of their <hi>Antidotes</hi> increaſed, the <hi>Weekly Bills</hi> augmented: as if God and Nature were angry beyond an ordinary de<g ref="char:EOLhyphen"/>gree of <hi>Pacification,</hi> and would not ſuffer thoſe <hi>Celestial influences</hi> to be baffled, from whence theſe <hi>cruel Calamities</hi> iſſued.</p>
+               <p>Obſerving theſe things, I ſay, I was reſolved to <hi>try</hi> how far <hi>Aſtrologie</hi> might be ſerviceable in <hi>this matter,</hi> and ac<g ref="char:EOLhyphen"/>cordingly <hi>took Pen in hand;</hi> and (for this <hi>dejected Citie's</hi> comfort and encouragement) wrote a ſhort Diſcourſe, which I intituled,
+<q>London's Deliverance predicted, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>In which Book, according to the <hi>true</hi> and <hi>plain Rules</hi> of <hi>A<g ref="char:EOLhyphen"/>ſtrologie,</hi> I acquainted the world, when the <hi>Pest</hi> ſhould ar<g ref="char:EOLhyphen"/>rive at its <hi>greatest height;</hi> and afterwards, with the <hi>time</hi> of its <hi>abatement;</hi> as alſo of the <hi>ſeveral Countries</hi> ſuffering thereby.</p>
+               <p>And although I aimed at nothing in that <hi>Tractate,</hi> but the comfort of the (then) many <hi>ſuffering ſouls</hi> in this <hi>great Citie;</hi> I have had the hard hap to be miſ-interpreted for
+<pb n="25" facs="tcp:38386:17"/>many things therein; chiefly, for my plain diſcuſſion of this <hi>urrifying,</hi> but moſt <hi>neceſſary Question</hi> to be ſcann'd, <hi>viz.</hi>
+                  <q>Whether the Plague be catching.</q>
+               </p>
+               <p>For my pains in this <hi>Enquiry,</hi> Mr. <hi>John Booker,</hi> in his Al<g ref="char:EOLhyphen"/>manack for 1666. is pleaſed to ſpend <hi>above a Page</hi> upon me; and urges a <hi>Definition</hi> of the <hi>Plague,</hi> and ingeniouſly explains it: but yet is pleaſed to let <hi>my Arguments ſtand untouch'd,</hi> and onely ſays, <hi>he could inſtance the Plague to be infectious and catching by innumerable means, but that he wants room.</hi> I ſhould (I confeſs) have been glad to have ſeen <hi>his Arguments</hi> brought in oppoſition to mine; being as ready (if Reaſon require) to <hi>retract an Errour,</hi> as <hi>write a Truth.</hi> But for any man to ſay, he is not of <hi>my Opinion,</hi> and not to ſhew me a reaſon <hi>wherefore,</hi> is not (I conceive) the way to <hi>win</hi> me unto <hi>his.</hi>
+               </p>
+               <p>There is another Gentleman alſo, <hi>a Doctor of Phyſick,</hi> (which Title (fairly obtained) and Profeſſion alſo, I ex<g ref="char:EOLhyphen"/>ceedingly honour) hath been <hi>pulling</hi> at me in <hi>Print,</hi> for my maintaining the <hi>Negative</hi> in the Queſtion above pro<g ref="char:EOLhyphen"/>pounded. This Antagoniſt is <hi>angry in earneſt,</hi> and tells the world, <hi>That I deſerve to be anſwer'd by the Magiſtrate,</hi> and that <hi>there is no way to ſuppreſs my Opinion, or anſwer my Argu<g ref="char:EOLhyphen"/>ments, but by putting in execution an Order publiſhed in Queen</hi> Elizabeth'<hi>s days.</hi>
+               </p>
+               <p>To which I anſwer: If there be any <hi>ſuch Order</hi> as he pretends, I humbly ſubmit my <hi>ſelf</hi> and <hi>Opinion</hi> unto it; as alſo unto <hi>all other Edicts</hi> proceeding from Authority. <hi>Contra Legem noneſt diſputandum:</hi> and he muſt be <hi>ſtrangely Rebellious,</hi> that oppoſeth the <hi>Laws</hi> he liveth under.</p>
+               <p>To <hi>contemn</hi> what we cannot <hi>conquer, ſome</hi> commend as <hi>good Policie;</hi> and to pretend to <hi>anſwer</hi> a <hi>ſerious Argument</hi> with <hi>the power of the Magiſtrate,</hi> or <hi>an Act of Parliament,</hi> is (I confeſs) the <hi>onely infallible way</hi> to ſtop any Opponents mouth. How like a <hi>Philoſopher</hi> that way of <hi>arguing</hi> is, let the <hi>knowing world</hi> judge.</p>
+               <p>But I believe this <hi>Gent.</hi> is as <hi>bold with Authority,</hi> as <hi>rigid with me:</hi> for I never yet <hi>heard</hi> or <hi>read</hi> of any <hi>Order</hi> publiſh<g ref="char:EOLhyphen"/>ed,
+<pb n="26" facs="tcp:38386:18"/>
+                  <hi>to prove the Plague contagious,</hi> or to <hi>prohibit a diſcuſſion of that Question;</hi> except from <hi>his Pen:</hi> although I can ſay, I have often conſulted <hi>Poulton.</hi>
+               </p>
+               <p>And conſidering ſome <hi>other paſſages</hi> of <hi>his,</hi> I perceive that he is not more angry at that <hi>my Opinion,</hi> then at the <hi>Celeſtial movers,</hi> the <hi>Stars; whom</hi> (ſaith he) <hi>many have accu<g ref="char:EOLhyphen"/>ſed as the Authors of the Plague.</hi> I have (I acknowledge) in the <hi>Book</hi> before mentioned, <hi>proved the Stars to be (ſub Deo) the Cauſes of the Peſtilence:</hi> but nowhere do I bring an <hi>ac<g ref="char:EOLhyphen"/>cuſation</hi> againſt them, as I know of; <hi>believing them free from guilt,</hi> and not meriting an <hi>Impeachment</hi> for the ſame; they onely performing that Office therein, which <hi>God</hi> appoint<g ref="char:EOLhyphen"/>ed them for at the beginning.</p>
+               <p>But this <hi>Gentleman</hi> (notwithſtanding his <hi>aim,</hi> and <hi>fruit<g ref="char:EOLhyphen"/>leſs pains,</hi> to render <hi>me ridiculous,</hi> and the <hi>Stars</hi> (I ſtudie) <hi>inefficacious;</hi>) is not (in the mean time) aware, of <hi>his own running into an Errour</hi> of far greater magnitude; <hi>viz.</hi> in his aſſerting <hi>the Original of the Plague to have been the ROT<g ref="char:EOLhyphen"/>TEN M<g ref="char:V">Ʋ</g>TTON eaten in the year before.</hi>
+               </p>
+               <p>Now, let any <hi>rational</hi> man conſider <hi>whether</hi> of the <hi>two,</hi> come neereſt the <hi>Truth:</hi> I, in aſſerting the <hi>Stars;</hi> or <hi>he,</hi> in maintaining <hi>Rotten Mutton,</hi> to be the <hi>Cauſe</hi> of the <hi>Pest.</hi> An <hi>Epicurean</hi> may, and frequently doth <hi>aſcribe more to his belly, then unto thoſe glorious and ever-buſied Lamps of heaven.</hi> I cannot ſtand here to repeat the <hi>Arguments</hi> I have urged, to <hi>prove the Plague contagious;</hi> I muſt refer the <hi>Reader,</hi> for that, to the <hi>Book it ſelf.</hi>
+               </p>
+               <p>But if <hi>Rotren Mutton</hi> be attended with ſuch <hi>fatal effects,</hi> why not a <hi>Plague</hi> every year after a <hi>Rot of Sheep?</hi> which is the <hi>common conſequence of every moist Summer.</hi> Or, if the <hi>Plague</hi> were truly the <hi>effect</hi> of <hi>Rotten Mutton;</hi> how then holds it <hi>true,</hi> what he aſſerts <hi>elſewhere,</hi> in the ſame Diſ<g ref="char:EOLhyphen"/>courſe? <hi>viz. That the Plague came to us from the</hi> Nether<g ref="char:EOLhyphen"/>lands, <hi>and to them from</hi> Smyrna, <hi>in a parcel of infected goods.</hi> Was there a <hi>Rot of Muiton</hi> in <hi>Smyrna</hi> too? <hi>Riſum tenea<g ref="char:EOLhyphen"/>tis, &amp;c.</hi>
+               </p>
+               <p>To conclude: let it <hi>ſuffice</hi> at preſent, that I <hi>deny</hi> any ſuch way of <hi>infection</hi> by <hi>Goods;</hi> and <hi>reject</hi> the <hi>Romance</hi> of
+<pb n="27" facs="tcp:38386:18"/>his <hi>Rotten Mutton:</hi> and (as before) do <hi>aſſert, the Stars</hi> (ſub Deo) <hi>to be the true and eſſential cauſes of all Plagues:</hi> and ſubſcribe unto it.</p>
+               <closer>
+                  <signed>John Gadbury.</signed>
+                  <dateline>
+                     <hi>From my Study in</hi> Brick-Court <hi>by the Bowling-Alley, neer the Deans Yard</hi> Weſtminſter.</dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>THe BODY of <hi>ASTROLOGY</hi> (ſo often by me promiſed) conſiſting of many <hi>various</hi> and <hi>different Subjects,</hi> each of which requires much more <hi>Study</hi> and <hi>Pains</hi> then I at the <hi>firſt</hi> expected, will, I hope, <hi>this year</hi> be <hi>fully ready</hi> for the <hi>Preſs;</hi> I having gone thorow the <hi>greatest part</hi> thereof <hi>already,</hi> and doubt not (by <hi>Gods aſſiſtance</hi>) to <hi>compleat it</hi> in due time: which whenſoever <hi>done,</hi> I ſhall (with all <hi>Candour</hi> and <hi>Faithfulneſs</hi>) make <hi>publique,</hi> for the <hi>Advantage</hi> of the <hi>Induſtrious Students</hi> in this Art, and <hi>perfection</hi> of <hi>Aſtrologie</hi> in the <hi>Engliſh Tongue.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb n="28" facs="tcp:38386:19"/>
+            <head>Several Books written and publiſhed by <hi>JOHN GADB<g ref="char:V">Ʋ</g>RY.</hi>
+            </head>
+            <list>
+               <item>AN Emendation of <hi>Hartgil</hi>'s Aſtronomical Tables.</item>
+               <item>The <hi>Celestial Ambaſſadour.</hi>
+               </item>
+               <item>The <hi>Doctrine of Nativities.</hi>
+               </item>
+               <item>The Nativity of King <hi>Charles</hi> the Firſt, of bleſſed Me<g ref="char:EOLhyphen"/>mory.</item>
+               <item>
+                  <hi>Britains Royal Star.</hi>
+               </item>
+               <item>The <hi>Nature of Prodigies.</hi>
+               </item>
+               <item>The King of <hi>Swedes</hi> Nativity.</item>
+               <item>The <hi>Spurious Prognosticator</hi> unmasked.</item>
+               <item>The <hi>Novice-Aſtrologer</hi> inſtructed.</item>
+               <item>
+                  <hi>Nuncius Aſtrologicus.</hi>
+               </item>
+               <item>The <hi>Collection of Nativities.</hi>
+               </item>
+               <item>
+                  <hi>Dies Noviſſimus,</hi> or <hi>Dooms-day not ſo neer as dreaded.</hi>
+               </item>
+               <item>An <hi>Aſtrological Diſceurſe</hi> of the three Comets, in 1664, and 1665.</item>
+               <item>
+                  <hi>Londons deliverance</hi> from the <hi>Plague.</hi>
+               </item>
+               <item>
+                  <hi>Vox Solis:</hi> or, <hi>A Diſcourſe of the Suns Eclipſe in</hi> June 1666.</item>
+               <item>Beſides his <hi>Almanacks,</hi> annually continued ſince 1655.</item>
+            </list>
+            <pb facs="tcp:38386:19" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
